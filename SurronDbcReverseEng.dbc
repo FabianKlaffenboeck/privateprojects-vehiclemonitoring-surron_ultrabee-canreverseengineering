@@ -36,8 +36,10 @@ BS_:
 BU_:
 
 
-BO_ 1349 InverterData: 8 Vector__XXX
+BO_ 1349 DisplayData: 8 Vector__XXX
  SG_ Veh_Speed : 0|8@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ ASR_Conf : 32|8@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ Battery_Level : 56|8@1+ (1,0) [0|0] "" Vector__XXX
 
 
 
